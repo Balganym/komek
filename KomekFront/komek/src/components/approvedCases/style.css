@@ -1,0 +1,26 @@
+.wrapper {
+  width: 100%;
+  min-height: 618px;
+  background-color: #fff;
+}
+
+.inner-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  min-height: 616px;
+  background-color: whitesmoke;
+}
+
+.title {
+  padding: 20px;
+  font-size: 1.1rem;
+}
+
+.caseList {
+  width: 90%;
+  background-color: #fff;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}

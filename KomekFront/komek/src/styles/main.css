@@ -1,0 +1,8 @@
+.title-center {
+  text-align: center;
+}
+
+.displayRow {
+  display: flex;
+  flex-wrap: wrap;
+}

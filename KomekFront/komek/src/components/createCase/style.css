@@ -1,0 +1,117 @@
+.createCases-wrapper {
+  margin-bottom: 20px;
+}
+
+.body {
+  background-color: whitesmoke;
+  display: flex;
+}
+
+.form-wrapper {
+  width: 50%;
+  margin: 20px 60px;
+  padding: 20px 0;
+  height: auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.form-title {
+  color: #03333C;
+  font-family: 'Arimo', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 16px 0 10px;
+}
+
+.input-wrapper {
+  width: 70%;
+  margin: 10px auto;
+  margin-bottom: 30px;
+}
+
+.btn-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.create-btn {
+  margin: 0 auto;
+  background-color: #00323A;
+}
+
+.case-list {
+  width: 36%;
+  min-height: 200px;
+  max-height: 580px;
+  background-color: red;
+  margin: 20px auto;
+  position: fixed;
+  top: 60px;
+  left: 740px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  background-color: #fff;
+  overflow: scroll;
+}
+
+.added-case {
+  padding: 12px;
+  display: flex;
+}
+
+.dark {
+  color: #03333C;
+}
+
+.light {
+  padding-left: 6px;
+  color: #2CACBD;
+}
+
+.select-department {
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 2px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.ddown {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.departments-wrapper {
+  margin: 10px auto;
+  padding: 5px 0;
+  width: 80%;
+}
+
+.prior-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4px;
+}
+
+.department {
+  color: #0F3840;
+  font-size: 0.8rem;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.departs-title {
+  text-align: center;
+  font-size: 1rem;
+  padding: 10px 0 0;
+}
+
+
+
+
+
+
